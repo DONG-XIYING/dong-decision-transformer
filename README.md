@@ -1,4 +1,4 @@
-@@ -1 +1,4 @@
+
  # dong-decision-transformer
  # setup
  decision　transformerをPCにインストール　https://github.com/kzl/decision-transformer
